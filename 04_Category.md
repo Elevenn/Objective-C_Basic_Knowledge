@@ -54,17 +54,17 @@
 #### 关联对象
 
 * 添加关联对象
-  ```
+  ```Objective-C
   void objc_setAssociatedObject(id _Nonnull object, const void * _Nonnull key,
                                 id _Nullable value, objc_AssociationPolicy policy)
   ```
 * 获得关联对象
 
-  ```
+  ```Objective-C
   id _Nullable objc_getAssociatedObject(id _Nonnull object, const void * _Nonnull key)
   ```
 * 移除所有的关联对象
-  ```
+  ```Objective-C
   void objc_removeAssociatedObjects(id _Nonnull object)
   ```
 
