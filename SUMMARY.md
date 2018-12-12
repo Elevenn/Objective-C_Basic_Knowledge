@@ -7,5 +7,4 @@
 * [Category](04_Category.md)
 * [Block](05_Block.md)
 * [Runtime](06_runtime.md)
-* [Algorithm](algorithm.md)
 
